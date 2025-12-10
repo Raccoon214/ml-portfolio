@@ -30,7 +30,7 @@ A fine-tuned transformer model that generates human-like summaries of multi-turn
 *NFL Passing Play Prediction | Feature Engineering | Model Comparison*  
 A predictive model analyzing NFL play-by-play and tracking data to classify whether a play will be a pass or run. Focuses on CRISP-DM workflow, advanced feature engineering, and model interpretability.
 
-### 3. **U.S. Traffic Accidents Analysis**
+### 3. **Regression Model & Risk Forecasting**
 *Exploratory Data Analysis | Geospatial Visualization | Tableau Dashboard*  
 A large-scale EDA project uncovering patterns in accidents across states, weather conditions, and time. Includes geospatial mapping and interactive Tableau dashboards for stakeholder communication.
 
